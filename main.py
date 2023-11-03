@@ -239,6 +239,6 @@ print()
 #
 #
 courses_average_students(Student.student_list, 'Python')
-courses_average_lecturer(Lecturer.lecturer_list, 'Git')
+courses_average_lecturer(Lecturer.lecturer_list, 'Django')
 
 print('ok')
